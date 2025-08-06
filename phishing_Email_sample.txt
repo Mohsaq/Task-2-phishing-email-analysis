@@ -1,0 +1,12 @@
+Dear user,
+
+We’ve detected suspicious activity in your account. Please verify your identity immediately to avoid permanent deactivation.
+
+Click below to verify:  
+👉 http://secure-verify-login.com
+
+If you don’t take action within 24 hours, your account will be terminated.
+
+Thank you,  
+Security Team  
+support@fake-security-alert.com
